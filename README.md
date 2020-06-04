@@ -1,2 +1,3 @@
 # ES6-notes
-Anotaciones de EcmaScript6
+
+Anotaciones de EcmaScript6 y buenas practicas
